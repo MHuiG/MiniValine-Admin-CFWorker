@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+coverage
+package-lock.json
+
+*.toml
+worker/script.js
